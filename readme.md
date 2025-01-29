@@ -92,10 +92,6 @@ Navigation Bar: Includes Home and Player Management buttons for easy access.
 
 Player Management Page: Allows users to add, view, and sort players based on name, score, or level.
 
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
